@@ -28,7 +28,7 @@
 
 ---
 
-## Person 3
+## Roman Prokhorv
 
 ### Assigned Tasks:
 - **Task 1.1: Image Preparation**
@@ -44,7 +44,7 @@
 
 ---
 
-## Person 4
+## Nazar Pasichnyk
 
 ### Assigned Tasks:
 - **Task 2: Perspective Shift (Homography)**

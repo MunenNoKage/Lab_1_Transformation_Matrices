@@ -1,4 +1,4 @@
-## Person 1
+## Denis Marchenko
 
 ### Assigned Tasks:
 - **Task 1.2: Scaling Matrix**
@@ -13,8 +13,7 @@
 
 ---
 
-## Person 2
-
+## Myron Ivanytskyi
 ### Assigned Tasks:
 - **Task 1.3: Shear Matrix**
   - Derive the horizontal shear matrix
